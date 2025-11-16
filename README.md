@@ -14,8 +14,7 @@
 <hr/>
 
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<img src="https://github.com/MAYouns/MAYouns/blob/main/profile.png" alt="side Image" align="right" width="300" height="auto" />
   
 <h3>🚀 About Me</h2>
 
