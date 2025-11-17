@@ -56,5 +56,11 @@ const mostafa = {
   <img alt="Git"       src="https://skillicons.dev/icons?i=git"     height="36" style="margin:6px"/>
 </p>
 
+<div align=center>
+  
+  ![snake gif](https://github.com/MAYouns/MAYouns/blob/output/github-snake-dark.svg)
+  
+</div>
+
 
 
