@@ -19,7 +19,10 @@ const mostafa = {
     database: ["MongoDB"], 
     tools: ["Git", "GitHub", "Docker", "Linux"] 
   }, 
-  contact: "mostafayouns27@gmail.com" 
+  contact: {
+      linkedin: ()=> window.open("https://www.linkedin.com/in/mostafa-youns-467b2a258/","_blank"),
+      email: ()=>window.open("https://mail.google.com/mail/?view=cm&fs=1&to=mostafayouns27@gmail.com")
+  }
 };
 
 ```
