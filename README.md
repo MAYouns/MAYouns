@@ -24,7 +24,7 @@ const mostafa = {
       linkedin: ()=> window.open("https://www.linkedin.com/in/mostafa-youns-467b2a258/","_blank"),
       email: ()=>window.open("https://mail.google.com/mail/?view=cm&fs=1&to=mostafayouns27@gmail.com")
   },
-  CV: ()=> window.open("https://drive.google.com/file/d/1JsPxCl-vZU16HfbIFTQ2-3IGwonRahiq/view?usp=drive_link","_blank")
+  cv: ()=> window.open("https://drive.google.com/file/d/1JsPxCl-vZU16HfbIFTQ2-3IGwonRahiq/view?usp=drive_link","_blank")
 };
 
 ```
