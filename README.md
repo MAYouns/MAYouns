@@ -1,6 +1,7 @@
-# 👋 Mostafa Youns (💻💖☕)
+# 👋 Mostafa Youns (💻☕)
 
-![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=4391f7&width=435&lines=A+passionate+Programmer;Full+Stack+Developer;)
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&pause=100&color=4391f7&width=600&lines=A+passionate+Programmer;Full+Stack+Developer;Always+learning+new+things!+🚀" />
+
 
 ##
 
@@ -14,15 +15,16 @@ const mostafa = {
   role: "Full Stack Developer", 
   focus: ["Web Development", "Frontend", "Backend"], 
   technologies: { 
-    frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js"], 
-    backend: ["Node.js", "Express", "NestJS"], 
+    frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "angular", "MUI", "shadCN"], 
+    backend: ["Node.js", "Express", "GraphQL", "NestJS"], 
     database: ["MongoDB"], 
     tools: ["Git", "GitHub", "Docker", "Linux"] 
   }, 
   contact: {
       linkedin: ()=> window.open("https://www.linkedin.com/in/mostafa-youns-467b2a258/","_blank"),
       email: ()=>window.open("https://mail.google.com/mail/?view=cm&fs=1&to=mostafayouns27@gmail.com")
-  }
+  },
+  CV: ()=> window.open("https://drive.google.com/file/d/1JsPxCl-vZU16HfbIFTQ2-3IGwonRahiq/view?usp=drive_link","_blank")
 };
 
 ```
