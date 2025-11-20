@@ -4,8 +4,6 @@
 
 
 ##
-
-<img src="https://github.com/MAYouns/MAYouns/blob/main/assets/vide.gif" alt="side Image" align="right" width="350" height="auto" />
   
 <h3>🚀 About Me</h3>
 
