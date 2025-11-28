@@ -61,22 +61,17 @@ const mostafa = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🏆 Achievements
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MAYouns&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Mostafa's Trophies" />
-  </a>
-</div>
-
 
 ### 📊 GitHub Stats
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MAYouns&show_icons=true&count_private=true&theme=tokyonight" alt="Mostafa's Github Stats" />
 </a>
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAYouns&layout=compact&theme=tokyonight" alt="Mostafa's Top Langs" />
 </a>
+
 </div>
 
 <div align=center>
